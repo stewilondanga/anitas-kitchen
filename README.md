@@ -1,4 +1,5 @@
 # Anitas Kitchen
+By Stewart ilondanga
 
 ## Description
 This is a website landing page design and the content example is titled Anita's Kitchen which is simply a restaurant example
